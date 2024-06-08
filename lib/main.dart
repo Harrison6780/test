@@ -140,7 +140,6 @@ class CustomLayout extends StatelessWidget {
                     color: Color(0xFF999999),
                     fontSize: 10,
                     fontFamily: 'PingFang SC',
-                    
                     fontWeight: FontWeight.w400,
                     height: 2.0,
                   ),
